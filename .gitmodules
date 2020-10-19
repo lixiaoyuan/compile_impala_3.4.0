@@ -1,0 +1,6 @@
+[submodule "compile_impala_3.4.0_maven"]
+	path = compile_impala_3.4.0_maven
+	url = https://github.com/lixiaoyuan/compile_impala_3.4.0_maven.git
+[submodule "net_sourceforge_czt_dev"]
+	path = net_sourceforge_czt_dev
+	url = https://github.com/lixiaoyuan/net_sourceforge_czt_dev.git
