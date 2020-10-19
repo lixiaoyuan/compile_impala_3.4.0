@@ -20,6 +20,6 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 ```
 
-
-
-# 2、使用strip 压缩编译后的impalad
+# 3、开始编译
+    参考编译步骤连接
+# 4、使用strip 压缩编译后的impalad
