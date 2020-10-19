@@ -1,6 +1,6 @@
 # compile_impala_3.4.0
 
-
+编译步骤：https://blog.csdn.net/huang_quanlong/article/details/106868826
 
 # 1、bin/bootstrap_system.sh 
   替换  
