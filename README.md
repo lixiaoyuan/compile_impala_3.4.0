@@ -1,9 +1,11 @@
 # compile_impala_3.4.0
 
-编译步骤：https://blog.csdn.net/huang_quanlong/article/details/106868826
+编译步骤：
+https://blog.csdn.net/huang_quanlong/article/details/106868826
+https://cwiki.apache.org/confluence/display/IMPALA/Building+Impala
 
 # 1、bin/bootstrap_system.sh 
-  替换  
+  查找下载apache-ant位置，替换为下面地址
 
 ```shell
   redhat sudo wget -nv \
@@ -22,4 +24,5 @@ sys.setdefaultencoding('utf-8')
 
 # 3、开始编译
     参考编译步骤连接
+    
 # 4、使用strip 压缩编译后的impalad
